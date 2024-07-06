@@ -39,4 +39,5 @@ A Python project using PyTorch to generate anime-style faces.
 - Explore transfer learning techniques
 - Develop a web interface for real-time image generation
 
-[Consider adding a small gallery of your best generated images here]
+![generated-images-0025](https://github.com/PrabhnoorGill/Anime-Face-Generation-GANs/assets/111403325/f953c865-df53-487f-9095-eb34dc776cac)
+
